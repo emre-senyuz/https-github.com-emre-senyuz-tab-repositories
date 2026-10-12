@@ -33,7 +33,8 @@ npm run preview   # serve the production build locally
 
 ## Screenshot
 
-_Screenshot placeholder: add `docs/screenshot.png` showing the desktop order workspace._
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/bce75f1b-4f2f-46ab-bfa8-48b38d44807b" />
+
 
 ## Structure
 
